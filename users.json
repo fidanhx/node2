@@ -1,0 +1,57 @@
+[
+    {"id":1,
+    "name":"apple",
+    "price":3,
+    "count":5
+ },
+ {"id":2,
+ "name":"grape",
+ "price":2,
+ "count":5
+},
+{"id":3,
+"name":"pomegranate",
+"price":3,
+"count":5
+},
+{"id":4,
+"name":"orange",
+"price":3,
+"count":5
+},
+{"id":5,
+"name":"watermelon",
+"price":3,
+"count":5
+},
+{"id":6,
+"name":"melon",
+"price":3,
+"count":5
+},
+{"id":7,
+"name":"cherry",
+"price":3,
+"count":5
+},
+{"id":8,
+"name":"strawberry",
+"price":3,
+"count":5
+},
+{"id":9,
+"name":"tomato",
+"price":3,
+"count":5
+},
+{"id":10,
+"name":"potato",
+"price":3,
+"count":5
+},
+{"id":11,
+"name":"eggplant",
+"price":3,
+"count":5
+}
+]
